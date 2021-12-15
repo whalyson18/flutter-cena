@@ -2,7 +2,7 @@
 
 ## _Exercício da matéria de Novas Tecnologias em Desenvolvimento para Web_
 
-####Classe Cena　
+####Cena　
 
 ```dart
 class Cena {
