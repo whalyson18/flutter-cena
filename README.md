@@ -1,6 +1,6 @@
-# cena
+# Jogo baseado em Texto
 
-A new Flutter project.
+## _Exercício _
 
 ## Getting Started
 
