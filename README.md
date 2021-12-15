@@ -1,6 +1,6 @@
 # Jogo baseado em Texto
 
-## _Exercício _
+## _Exercício_
 
 ## Getting Started
 
