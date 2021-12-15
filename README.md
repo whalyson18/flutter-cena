@@ -1,6 +1,6 @@
 # Jogo baseado em Texto
 
-## _Exercício_
+## _Exercício da matéria de Novas Tecnologias em Desenvolvimento para Web_
 
 ## Getting Started
 
